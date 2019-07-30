@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date:   2019-07-30 21:10:15 +0800
+date:   2019-07-30
 categories: 1
 ---
 
