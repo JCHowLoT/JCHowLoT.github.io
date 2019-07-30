@@ -1,14 +1,9 @@
 ---
 layout: post
-title:  "First Post"
-date:   2019-07-30
-categories: 1
+title:  "First Blog!"
+date:   2019-07-30 21:10:15 +0800
+categories: jekyll update
+
 ---
 
-# First Post
-21321423153253415641
-## 二级标题
-
-$$
-a_1
-$$
+My first blog!
